@@ -7,7 +7,7 @@ false
 05/03/2006
 BBBBB
 BBBBB
-C:\Users\Sumit Kumar\Downloads\printer.png
+C:\Users\Nisha Dutta\Downloads\printer.png
 Boat
 My Room
 Rockerz510
@@ -16,7 +16,7 @@ false
 06/02/2020
 Flipkart
 Black
-C:\Users\Sumit Kumar\Downloads\add-file.png
+C:\Users\Nisha Dutta\Downloads\add-file.png
 GGGG
 GGG
 GGG
@@ -25,7 +25,7 @@ false
 08/03/2016
 GGGG
 GGGG
-C:\Users\Sumit Kumar\Downloads\add-file.png
+C:\Users\Nisha Dutta\Downloads\add-file.png
 HHHH
 HHHH
 HHHH
@@ -34,7 +34,7 @@ true
 06/02/2009
 HHHH
 HHHH
-C:\Users\Sumit Kumar\Downloads\exit.png
+C:\Users\Nisha Dutta\Downloads\exit.png
 UUUU
 UUUU
 UUUU
@@ -43,7 +43,7 @@ true
 03/03/2021
 GGGG
 GGGG
-C:\Users\Sumit Kumar\Downloads\add-file.png
+C:\Users\Nisha Dutta\Downloads\add-file.png
 11
 GGGG
 HHHH
